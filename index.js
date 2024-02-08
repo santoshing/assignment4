@@ -1,0 +1,5 @@
+function calculateMoney(ticketSale) {
+       const
+
+
+}
